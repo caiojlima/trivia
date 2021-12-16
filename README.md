@@ -15,7 +15,7 @@ Ferramentas e habilidades utilizadas:
 
 - **REACT**
 - **REDUX**
-- **THUNK**
+- **REDUX THUNK**
 - **JAVASCRIPT**
 - **CSS**
 - **FIGMA**
