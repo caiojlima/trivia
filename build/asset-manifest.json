@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/trivia/static/css/main.1cce04d8.chunk.css",
+    "main.js": "/trivia/static/js/main.3240b795.chunk.js",
+    "main.js.map": "/trivia/static/js/main.3240b795.chunk.js.map",
+    "runtime-main.js": "/trivia/static/js/runtime-main.6e763e45.js",
+    "runtime-main.js.map": "/trivia/static/js/runtime-main.6e763e45.js.map",
+    "static/js/2.94bcee75.chunk.js": "/trivia/static/js/2.94bcee75.chunk.js",
+    "static/js/2.94bcee75.chunk.js.map": "/trivia/static/js/2.94bcee75.chunk.js.map",
+    "index.html": "/trivia/index.html",
+    "precache-manifest.89fb2b2fd694739454d7f21dc0a0afe3.js": "/trivia/precache-manifest.89fb2b2fd694739454d7f21dc0a0afe3.js",
+    "service-worker.js": "/trivia/service-worker.js",
+    "static/css/main.1cce04d8.chunk.css.map": "/trivia/static/css/main.1cce04d8.chunk.css.map",
+    "static/js/2.94bcee75.chunk.js.LICENSE": "/trivia/static/js/2.94bcee75.chunk.js.LICENSE",
+    "static/media/button-play.svg": "/trivia/static/media/button-play.5e2c9f33.svg",
+    "static/media/celular.svg": "/trivia/static/media/celular.5eb07356.svg",
+    "static/media/feedback.svg": "/trivia/static/media/feedback.c2e8b070.svg",
+    "static/media/Feedback.css": "/trivia/static/media/galaxy.55e39beb.svg",
+    "static/media/Ranking.css": "/trivia/static/media/ranking.eca1efa4.svg",
+    "static/media/Game.css": "/trivia/static/media/tablet.8ca856ee.svg",
+    "static/media/trybe.svg": "/trivia/static/media/trybe.e7579ad8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e763e45.js",
+    "static/js/2.94bcee75.chunk.js",
+    "static/css/main.1cce04d8.chunk.css",
+    "static/js/main.3240b795.chunk.js"
+  ]
+}
