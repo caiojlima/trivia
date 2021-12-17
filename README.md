@@ -22,4 +22,6 @@ Ferramentas e habilidades utilizadas:
 
 ## Instruções:
 
+### Obs: Esse projeto foi desenvolvido na resolução de 1366x768. Portanto, se outra resolução for utilizada alguns elementos pode ter seu posicionamento modificado.
+
 Para visualizar esse projeto rodando no seu navegador, basta acessar [este link](https://triviatrybe.herokuapp.com/).
